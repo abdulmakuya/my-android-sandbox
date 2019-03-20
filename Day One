@@ -1,22 +1,22 @@
-Activities
+1.Activities
 
-Android Widgets (UI Elements)
+2.Android Widgets (UI Elements)
     TextView
     Buttons
     
-Intents 
+3.Intents 
     Implicit and Explicit
     Has many applications,
         carry data
         open other apps
         
         
-  XML Code Structure
+ 4. XML Code Structure
   
   <OpeningTag
   PropertyName = 'value'
   >
   </closing
   
-  Linear Layouts
+  5.Linear Layouts
     
