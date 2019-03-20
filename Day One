@@ -2,4 +2,6 @@ Activities
 Android Widgets (UI Elements)
 Intents 
     Implicit and Explicit
-    Has many applications,carry data
+    Has many applications,
+        carry data
+        open other apps
