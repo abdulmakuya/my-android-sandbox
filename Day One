@@ -1,7 +1,19 @@
 Activities
+
 Android Widgets (UI Elements)
+    TextView
+    Buttons
+    
 Intents 
     Implicit and Explicit
     Has many applications,
         carry data
         open other apps
+        
+        
+  XML Code Structure
+  
+  <OpeningTag
+  PropertyName = 'value'
+  
+    
