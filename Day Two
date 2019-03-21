@@ -2,3 +2,10 @@ Continuation of the demo App.
   
   Code completetion;mute off Case-sensitive auto completion
   Nested Layouts
+  Gradle was deleted by a student,It was then restored
+  Dimension Configuration
+      wrap_content
+      fill_parent
+      match_parent
+      defined-value
+   
