@@ -13,7 +13,15 @@ Continuation of the demo App.
   Renaming classes - Refractor
   gravity,layout_gravity,
   weight out of 10
-  ems - gives focus to textfields
+  
+  Text Fields
+   ems - gives focus to textfields
+   strings
+   
+   Activities
+        Screen labels
+        Back
+        (This is done in the manifest)
   
   
   
