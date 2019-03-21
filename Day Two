@@ -8,4 +8,6 @@ Continuation of the demo App.
       fill_parent
       match_parent
       defined-value
+      
+  Control B - Go directly to textview from Design view
    
