@@ -1,0 +1,34 @@
+//Implement share Functionality Property
+    public void shareMessageFeature(){
+
+        //make reference of widgets from xml using findViewById
+        final EditText edtMessage = (EditText) findViewById(R.id.editTextMessage);
+        Button btnShareMessage = (Button) findViewById(R.id.buttonShareMessage);
+
+        //implement button click event
+        btnShareMessage.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                //capture content from the editText
+                String message = edtMessage.getText().toString();
+
+                //validate input from user
+                //you may also use if message == ""
+
+                if (message.isEmpty()){
+                    Toast.makeText(Share.this, "Please enter the message", Toast.LENGTH_SHORT).show();
+                }else{
+
+                    //implement share functionality
+                    Intent intshare = new Intent(Intent.ACTION_SEND); //We intend to send something
+                    //specify type of data
+                    intshare.setType("text/plain"); //type is data
+                    //attach data to the intent
+                    intshare.putExtra(Intent.EXTRA_TEXT,message); //type of data that is sent
+
+                    startActivity(intshare);
+
+                }
+            }
+        });
+    }
