@@ -9,5 +9,10 @@ drawabletint
 Basic built in Icons
         send
         submit
+       
+       
+item.getItemId()
+view.getViewId()
+
 
 
