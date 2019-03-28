@@ -1,0 +1,8 @@
+Create a db in your online server
+make sure server.com/dir/connection.php is working
+
+  foristance http://hopeoftomorrow.org/bizdirectory/connection.php
+  
+registration handler
+  make sure it works - inserting empty fields
+  make sure with data - inserting from the url
