@@ -11,4 +11,6 @@ List View Implementation
     Edit looks of a single text view
     make a unique ID
   
-  3.Create the Array
+  3.Create the Array.  
+  
+  4.Create the adapter
