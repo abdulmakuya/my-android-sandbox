@@ -1,4 +1,4 @@
-Android to php handler (Write to DB Handler)
+# Android to php handler (Write to DB Handler)
 ```php
 <?php
 // Create connection
