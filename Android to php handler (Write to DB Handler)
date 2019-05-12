@@ -1,5 +1,5 @@
 Android to php handler (Write to DB Handler)
-
+```php
 <?php
 // Create connection
 $servername = "localhost";
@@ -32,3 +32,4 @@ if ($conn->query($sql) === TRUE) {
 $conn->close();
 
 ?>
+```
