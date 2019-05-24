@@ -12,3 +12,7 @@ https://developers.google.com/training/android/
 
 https://developers.google.com/training/certification/associate-android-developer/study-guide/    
 https://www.freecodecamp.org/news/create-an-app-that-works-on-ios-android-and-the-web-with-react-native-web/
+
+# Components and Libraries
+https://www.viralandroid.com/2015/11/android-user-interface-ui-design-tutorial.html
+https://www.viralandroid.com/search/label/Libraries
