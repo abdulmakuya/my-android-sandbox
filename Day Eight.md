@@ -8,4 +8,8 @@ Implementation components are
 4.Adapter
 5.Recycler view
 
-Common issue is in the appcompact dependency version mismatch with the compileSDK version.
+Common issue is in the appcompact dependency version mismatch with the compileSDK version.  
+but you can enforce all dependencies.
+
+
+https://abhiandroid.com/materialdesign/recyclerview
