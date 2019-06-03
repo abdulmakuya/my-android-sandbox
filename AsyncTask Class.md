@@ -1,4 +1,4 @@
-```java
+
 
 class registerNewCompany extends AsyncTask<String,String,String>{
 
@@ -79,4 +79,4 @@ class registerNewCompany extends AsyncTask<String,String,String>{
 }
 
 
-```
+
