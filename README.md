@@ -7,7 +7,7 @@ https://www.damonkohler.com/2009/02/android-recipes.html
 https://stackoverflow.com/questions/2669908/cheatsheet-for-android-programming
 
 # FireBase
-https://firebase.google.com
+https://firebase.google.com.  
 https://firechat.firebaseapp.com/
 
 # Tutorials
