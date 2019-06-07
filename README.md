@@ -23,6 +23,7 @@ https://www.viralandroid.com/search/label/Libraries
 https://abhiandroid.com/ui/
 https://abhiandroid.com/sourcecode/
 https://www.androidhive.info/category/app/
+http://download.androidhive.info/
 
 # JSON
 https://classroom.udacity.com/courses/ud843/lessons/1335cf7d-bb4f-48c6-8503-f14b127d2abc/concepts/cf8cd625-1fef-4d03-991b-2808a3ddb47c#
