@@ -7,3 +7,6 @@
     <DrawerLayout
     Linear layout
     ListView
+
+
+https://code.tutsplus.com/tutorials/how-to-code-a-navigation-drawer-in-an-android-app--cms-30263
